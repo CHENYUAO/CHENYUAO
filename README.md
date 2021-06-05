@@ -8,7 +8,6 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on WHU for my master's degree
-- 🌱 I’m currently learning Golang develpoment
 - 💬 Welcome to my personal blog website:
   - https://chenyuao.github.io/
 
